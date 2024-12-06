@@ -58,7 +58,7 @@ int main()
     world.add(make_shared<sphere>(point3(4, 1, 0), 1.0, material3));
 
 
-    camera cam(16.0 / 9.0, 1200, 10, 50, 20);
+    camera cam(16.0 / 9.0, 1200, 10, 10, 20);
 
     cam.lookfrom =  point3(13, 2, 3);
     cam.lookat =    point3(0, 0, 0);
@@ -67,6 +67,13 @@ int main()
     cam.defocus_angle       = 0.6;
     cam.focus_dist          = 10.0;
 
+    clock_t start, stop;
+    start = clock();
+
     cam.render(world);
+
+    stop = clock();
+    double timer_seconds = ((double)(stop - start)) / CLOCKS_PER_SEC;
+    std::cerr << "took " << timer_seconds << " seconds.\n";
     return 0;
 }

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silva\\Desktop\\RayTracing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\RayTracing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:RayTracing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\general.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:general.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|C:\\Users\\silva\\Desktop\\RayTracing\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57508DAC-99FA-4FC6-8A2A-F891AECFB191}|RayTracing.vcxproj|solutionrelative:interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "material.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\material.h",
+              "RelativeDocumentMoniker": "material.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\material.h",
+              "RelativeToolTip": "material.h",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwFUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\camera.h",
+              "RelativeDocumentMoniker": "camera.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\camera.h",
+              "RelativeToolTip": "camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "general.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\general.h",
+              "RelativeDocumentMoniker": "general.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\general.h",
+              "RelativeToolTip": "general.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hittable.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\hittable.h",
+              "RelativeDocumentMoniker": "hittable.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\hittable.h",
+              "RelativeToolTip": "hittable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ray.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\ray.h",
+              "RelativeDocumentMoniker": "ray.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\ray.h",
+              "RelativeToolTip": "ray.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vec3.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\vec3.h",
+              "RelativeDocumentMoniker": "vec3.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\vec3.h",
+              "RelativeToolTip": "vec3.h",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "color.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\color.h",
+              "RelativeDocumentMoniker": "color.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\color.h",
+              "RelativeToolTip": "color.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RayTracing.cpp",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\RayTracing.cpp",
+              "RelativeDocumentMoniker": "RayTracing.cpp",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\RayTracing.cpp",
+              "RelativeToolTip": "RayTracing.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T18:56:59.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sphere.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\sphere.h",
+              "RelativeDocumentMoniker": "sphere.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\sphere.h",
+              "RelativeToolTip": "sphere.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "hittable_list.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\hittable_list.h",
+              "RelativeDocumentMoniker": "hittable_list.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\hittable_list.h",
+              "RelativeToolTip": "hittable_list.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "interval.h",
+              "DocumentMoniker": "C:\\Users\\silva\\Desktop\\RayTracing\\interval.h",
+              "RelativeDocumentMoniker": "interval.h",
+              "ToolTip": "C:\\Users\\silva\\Desktop\\RayTracing\\interval.h",
+              "RelativeToolTip": "interval.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T18:56:59.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
